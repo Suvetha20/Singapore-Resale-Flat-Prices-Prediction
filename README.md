@@ -32,7 +32,7 @@
 
 *  About Project
   
-      Navigate to the "About Project" section in the sidebar to read about various aspects of the HDB resale market.
+  Navigate to the "About Project" section in the sidebar to read about various aspects of the HDB resale market.
    
 * Predictions
   
