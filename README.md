@@ -1,3 +1,41 @@
 # Singapore-Resale-Flat-Prices-Prediction
 ## Overview
    This project aims to predict the resale prices of HDB flats in Singapore using a machine learning model. The application provides insights into various aspects of the HDB resale market and allows users to input details about a flat to get a predicted resale price.
+
+## Features
+ * About Project: Provides detailed information about the HDB resale market, including the resale process, valuation, eligibility criteria, and more.
+ * Predictions: Allows users to input flat details and get a predicted resale price based on the trained machine learning model.
+
+## Usage
+
+*  About Project
+  
+      Navigate to the "About Project" section in the sidebar to read about various aspects of the HDB resale market.
+   
+* Predictions
+  
+     *  Navigate to the "Predictions" section in the sidebar.
+       
+     *  Fill in the form with the following details
+       
+     *  Street Name: The street name of the flat.
+       
+     * Block Number: The block number of the flat.
+       
+     *  Floor Area (Per Square Meter): The floor area of the flat in square meters.
+       
+     *  Lease Commence Year: The year the lease commenced.
+       
+     * Storey Range: The range of storeys (e.g., "1 TO 5").
+       
+     *  Click on "PREDICT RESALE PRICE" to get the predicted resale price.
+       
+* Files
+  
+   app.py: The main Streamlit application file.
+   
+   mrt.csv: The CSV file containing MRT station coordinates.
+   
+   model.pkl: The trained machine learning model.
+   
+   scaler.pkl: The scaler used for preprocessing input data.
